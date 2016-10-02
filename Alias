@@ -1,0 +1,9 @@
+alias telegram='/home/jcbasso/bin/telegram'
+alias telegramupdate='/home/jcbasso/bin/telegramUpdater'
+
+alias gitkraken="/home/jcbasso/.programs/GitKraken/gitkraken"
+# alias sharelatex="gtk-launch Sharelatex"
+# alias sharelatex-algo3_tp1="gtk-launch Sharelatex-algo3"
+
+alias sharelatex="firefox -P sharelatex -no-remote -new-instance https://www.sharelatex.com/project/"
+alias sharelatex-algo3_tp1="firefox -P sharelatex -no-remote -new-instance https://www.sharelatex.com/project/57b64c245acc2a03283874f1"
